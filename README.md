@@ -5,9 +5,7 @@
 This Angular application is a password generator. It allows users to generate a password based on customizable options. Here is a summary of its functionality:\n
 
 Password Length: Users can specify the length of the password.\n
-
 Character Options: Users can choose to include letters, numbers, and symbols in the password.\n
-
 Password Generation: When the user clicks the "Generate!" button, the application generates a password based on the selected options and displays it.
 
 # Key Components:
